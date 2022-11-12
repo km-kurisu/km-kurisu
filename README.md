@@ -19,7 +19,11 @@ I am K and i am learning the ways of programming and
 currently i am learning c,c++,java,javascript languages 
 i know learning multiple languages together is a bad thing but welp!
 
-i currently dont have any social media i will join one soon in the future
+i do illustrations as a hobby of mine and i post them on my instagram 
+
+Instagram handle - @too_lazy_to_type_a_username
+
+do follow me if you like my work here and there as well i will keep uploading  a lot of code and drawings  in the future ,stay tuned!!
 
 
 pronouns : he/him
