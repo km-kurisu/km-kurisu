@@ -46,7 +46,7 @@ A 21 y/o student from Maharashtra who spends too much time on hobby projects, an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-> *Feel free to replace / add badges that actually match your stack!*
+
 
 ---
 
@@ -56,8 +56,8 @@ A 21 y/o student from Maharashtra who spends too much time on hobby projects, an
 
 | Type | Title | Status |
 |------|-------|--------|
-| 📺 Anime | *(add what you're watching)* | Ongoing |
-| 📖 Manga | *(add what you're reading)* | Ongoing |
+| 📺 Anime | *Neon Genesis Evangelion* | Completed |
+| 📖 Manhwa | *Nano Machine* | Ongoing |
 
 ---
 
