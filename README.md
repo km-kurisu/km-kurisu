@@ -29,7 +29,9 @@ A 21 y/o student from Maharashtra who spends too much time on hobby projects, an
 - 🎮 Dabbling in game dev & graphics when the mood hits
 - 🐍 Python scripts for everything™
 - 🔧 Learning the backend dark arts
-- 📡 Part of **[N-eX Dev](https://github.com/N-eXDev)** — a small crew of dev enthusiasts
+- 👾 Creating Mystical Games
+- 📡 Co-Founder of **[Studio 1159](https://github.com/1159Studio)** — a Indie Game Dev Studio
+- 📡 Co-Founder of **[N-eX Dev](https://github.com/N-eXDev)** — a small crew of dev enthusiasts
 
 ---
 
