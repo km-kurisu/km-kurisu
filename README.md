@@ -9,149 +9,174 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝
 ```
 
-### *"Embrace the lore. Ship the code."*
+# \`\`\`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=21+y%2Fo+dev+from+Maharashtra+%F0%9F%87%AE%F0%9F%87%B3;Hobby+projects+%26+endless+learning;Web+%7C+Backend+%7C+Games+%7C+Scripts;Currently+on+a+side+quest...)
+# K U R I S U
 
-[![N-eX Dev](https://img.shields.io/badge/N--eX%20Dev-part%20of-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-eXDev)
+# \`\`\`
 
-</div>
+### Embrace the lore. Ship the code.
 
----
+**Software Developer · Computer Engineering Undergraduate**
 
-## ✦ About Me
+Building things, breaking things, fixing them, and occasionally wondering why they worked in the first place.
 
-Hey, I'm **Kamlesh**, also known as **kurisu** across the internet.  
-A 21 y/o student from Maharashtra who spends too much time on hobby projects, anime, and music — not necessarily in that order.
-
-- 🧪 Experimenting with whatever catches my interest at the moment
-- 🌐 Building stuff for the web (and occasionally breaking it)
-- 🎮 Dabbling in game dev & graphics when the mood hits
-- 🐍 Python scripts for everything™
-- 🔧 Learning the backend dark arts
-- 👾 Creating Mystical Games
-- 📡 Co-Founder of **[Studio 1159](https://github.com/1159Studio)** — a Indie Game Dev Studio
-- 📡 Co-Founder of **[N-eX Dev](https://github.com/N-eXDev)** — a small crew of dev enthusiasts
+[Portfolio](https://kamleshmistry.vercel.app) · [GitHub](https://github.com/km-kurisu) · [AniList](https://anilist.co)
 
 ---
 
-## ⚔️ Tech Stack
+## 🧑‍💻 About Me
 
-> 49 public repos · Python 64%, TypeScript 15%, HTML 13% of committed bytes
+Hey! I'm **Kamlesh**, better known around the internet as **Kurisu**.
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5686A5?style=for-the-badge&logo=opengl&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+I'm a Computer Engineering undergraduate from Maharashtra, India, graduating in 2027. I enjoy building software, experimenting with technologies, and turning random ideas into things that actually work.
 
-#### Frontend & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcn&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-111111?style=for-the-badge&logo=radixui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framermotion&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=gsap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-888?style=for-the-badge&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-888?style=for-the-badge&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-888?style=for-the-badge&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+My primary focus is **software development**, particularly web applications, frontend engineering, and full-stack development. I also explore applied AI, developer tooling, and game development.
 
-#### Backend, Data & AI
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EE4C2C?style=for-the-badge&logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-888?style=for-the-badge&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ⚔️ Building web applications with React, Next.js, and TypeScript.
+- 🧩 Exploring backend development, APIs, and relational databases.
+- 🧪 Experimenting with machine learning and AI-powered applications.
+- 🐧 Interested in Linux, developer tooling, and making software better.
+- 🎮 Developing games and occasionally making questionable design decisions.
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I enjoy learning new technologies, figuring out how things work under the hood, and improving my development workflow along the way.
 
+## ⚔️ The Main Quest
 
+Projects that represent my primary development interests.
 
----
+### [ACRM — Creator Relationship Management](https://github.com/km-kurisu/ACRM)
 
-## 📺 Currently Watching / Reading
+**TypeScript · React · Next.js · PostgreSQL**
 
-> *The seasonal queue never ends...*
+A full-stack CRM application developed for Otaku Mantra to manage creator relationships and agency workflows.
 
-| Type | Title | Status |
-|------|-------|--------|
-| 📺 Anime | [*One Piece*](https://anilist.co/anime/21) | Watching — ep 900 |
-| 📺 Anime | [*Attack on Titan: The Final Season*](https://anilist.co/anime/110277) | Watching — ep 18 |
-| 📺 Anime | [*JUJUTSU KAISEN*](https://anilist.co/anime/113415) | Watching — ep 25 |
-| 📺 Anime | [*The Rising of the Shield Hero S2*](https://anilist.co/anime/111321) | Watching — ep 11/13 |
-| 📺 Anime | [*The God of High School*](https://anilist.co/anime/116006) | Watching — ep 9/13 |
-| 📖 Manhwa | [*Nano Machine*](https://anilist.co/manga/120980) | Reading — ch 243 |
-| 📖 Manhwa | [*Mortals of the Doom*](https://anilist.co/manga/101419) | Reading — ch 535/601 |
-| 📖 Manga | [*BLEACH*](https://anilist.co/manga/30012) | Reading — ch 686/706 |
-| 📖 Manhwa | [*Tower of God*](https://anilist.co/manga/85143) | Reading — ch 652 |
-| 📖 Manga | [*Rent-A-Girlfriend*](https://anilist.co/manga/99943) | Reading — ch 314 |
+- Designed and developed the application.
+- Worked on database design and application architecture.
+- Implemented authentication and core CRM functionality.
+- Built workflows around creators, outreach, campaigns, and brand collaborations.
 
-**125** anime · **127** manga tracked — mean score **88** / **90** on [AniList](https://anilist.co/user/Kurisu015)
+🌐 [Live Preview](https://acrm-five.vercel.app)
+
+### [VitaScan V3](https://github.com/km-kurisu/vitascan_v3)
+
+**Python · Machine Learning · OCR · XGBoost · Graph Neural Networks**
+
+An explainable AI-based anaemia screening research project.
+
+- Developed a blood-report processing pipeline using OCR and biomedical entity extraction.
+- Explored hybrid machine learning approaches combining gradient boosting and graph neural networks.
+- Incorporated explainability techniques to help interpret model predictions.
+- Added a supporting symptom-image assessment pipeline.
+
+Currently part of my academic research work.
+
+### [Neobrutalism Playground](https://github.com/km-kurisu/neobrutalism-playground)
+
+**React · Next.js · TypeScript · Tailwind CSS**
+
+A neobrutalist UI component library and playground focused on reusable interface components.
+
+- Exploring reusable component architecture.
+- Working with modern React and frontend tooling.
+- Experimenting with bold, expressive UI design.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Collaborative Projects
 
-<div align="center">
+Some things are better built with other people. These projects are collaborations with [@me-intenzo](https://github.com/me-intenzo).
 
-![Kamlesh's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=km-kurisu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+### [Repoctor](https://github.com/km-kurisu/repoctor)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=km-kurisu&layout=compact&theme=tokyonight&hide_border=true)
+**Go · Linux · Developer Tooling**
 
-![Commit Chart](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=km-kurisu&theme=tokyonight&stats=true&width=1000&height=420)
+A repository hygiene and security-scanning tool designed to identify common repository issues.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=km-kurisu&theme=tokyonight&hide_border=true)
+**My contributions:**
 
-</div>
+- Developing a Terminal User Interface (TUI).
+- Optimising the software for Linux environments.
+- Testing across Linux-based environments.
+- Working on overall software optimisation and improvements.
 
----
+\<sub>Currently in development.\</sub>
 
-## 🏢 Org — N-eX Dev
+### [It's Behind You!](https://github.com/km-kurisu/Its-Behind-You)
 
-<a href="https://github.com/N-eXDev">
-  <img src="https://avatars.githubusercontent.com/u/149927430?s=100&v=4" width="60" style="border-radius:50%"/>
-</a>
+**Godot · Game Development · Pixel Art · Horror**
 
-**[N-eX Dev](https://github.com/N-eXDev)** — a software dev club for enthusiasts.  
-We build things, break things, and figure it out as we go.
+A 2D pixel-art horror platformer where survival is the name of the game.
 
-> **What we stand for:** *embrace the lore, ship the code* — build it, break it, learn it in public, and pass it on. No gatekeeping, no half-finished excuses.
+**My contributions:**
 
----
+- Implemented difficulty modes.
+- Deployed the game using Netlify.
+- Worked on gameplay balancing.
+- Planned new trap mechanics for an upcoming update.
 
-## 🔗 Socials
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/too_lazy_to_type_a_username/)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UC-3DOzvvTgBMGZvt9B47FHA?si=gNIKNfBPyR8D0SDs/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/04xzefea77uh7e7vrlkco96fe?si=2de5cec4d2724e66/)
-[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white)](https://anilist.co/user/Kurisu015/)
-[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Kurisu_015)
+🎮 [Play the game](https://itsbehindyou.netlify.app)
 
 ---
 
-<div align="center">
+## 🧰 Inventory — Technologies & Tools
 
-*Thanks for stopping by. Now go touch grass. Or don't. I'm a README, not a cop.*
+Things I've worked with, experimented with, or continue to learn.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=km-kurisu&color=7aa2f7&style=flat-square&label=Profile+Views)
+**Languages**
 
-</div>
+Python · Java · JavaScript · TypeScript · C# · HTML · CSS · Go
+
+**Frontend Development**
+
+React · Next.js · Tailwind CSS · shadcn/ui · Vite · Zustand
+
+**Backend & Databases**
+
+PostgreSQL · SQLite · Supabase · Firebase · Flask · Express.js
+
+**AI & Machine Learning**
+
+TensorFlow · PyTorch · Scikit-learn · XGBoost · OpenCV · Pandas
+
+**Tools & Environments**
+
+Git · GitHub · Linux · Docker · VS Code · Godot
+
+Always learning something new. The inventory is subject to change whenever I discover another interesting technology.
+
+---
+
+## 🎮 Another Universe — Game Development
+
+Outside conventional software development, I also spend time making games.
+
+I'm a co-founder of [**Studio 1159**](https://studio1159.itch.io/), an indie game development team working on experimental games, particularly horror and thriller experiences.
+
+Game development gives me another way to explore programming, problem-solving, mechanics, and interactive experiences.
+
+---
+
+## 📺 The Current Arc
+
+Because life isn't just commits and pull requests.
+
+- **Anime:** Always looking for the next series worth staying up late for.
+- **Manga & Manhwa:** One more chapter. Famous last words.
+- **Gaming:** Playing games, studying their mechanics, and occasionally making my own.
+- **Other interests:** Writing, photography, music, and learning new things.
+
+📚 [Find me on AniList](https://anilist.co)
+
+---
+
+## 📡 Find Me Across the Internet
+
+- 🌐 [Personal Portfolio](https://kamleshmistry.vercel.app)
+- 💻 [GitHub](https://github.com/km-kurisu)
+- 📚 [AniList](https://anilist.co)
+- 🎮 [Studio 1159](https://studio1159.itch.io/)
+
+---
+
+\<p align="center">   \<i>"Thanks for stopping by. Now go touch grass. Or don't. I'm a README, not a cop."\</i> \</p>
