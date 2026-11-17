@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-```
+```text
 ██╗  ██╗██╗   ██╗██████╗ ██╗███████╗██╗   ██╗
 ██║ ██╔╝██║   ██║██╔══██╗██║██╔════╝██║   ██║
 █████╔╝ ██║   ██║██████╔╝██║███████╗██║   ██║
@@ -9,174 +9,264 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝
 ```
 
-# \`\`\`
+### `Embrace the lore. Ship the code.`
 
-# K U R I S U
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Frontend+%26+Full-Stack+Enthusiast;Occasional+AI+Experimenter;Indie+Game+Developer+%F0%9F%8E%AE;Currently+debugging+my+life..." alt="Typing SVG" />
 
-# \`\`\`
+<br/>
 
-### Embrace the lore. Ship the code.
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://kamleshmistry.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/km-kurisu)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co)
 
-**Software Developer · Computer Engineering Undergraduate**
+<img src="https://komarev.com/ghpvc/?username=km-kurisu&style=flat-square&color=dc143c&label=PROFILE+VISITORS" alt="Profile views" />
 
-Building things, breaking things, fixing them, and occasionally wondering why they worked in the first place.
-
-[Portfolio](https://kamleshmistry.vercel.app) · [GitHub](https://github.com/km-kurisu) · [AniList](https://anilist.co)
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-Hey! I'm **Kamlesh**, better known around the internet as **Kurisu**.
+## `01 // CHARACTER PROFILE`
 
-I'm a Computer Engineering undergraduate from Maharashtra, India, graduating in 2027. I enjoy building software, experimenting with technologies, and turning random ideas into things that actually work.
+</div>
 
-My primary focus is **software development**, particularly web applications, frontend engineering, and full-stack development. I also explore applied AI, developer tooling, and game development.
+```yaml
+name: Kamlesh
+alias: Kurisu
+location: Maharashtra, India
+class: Computer Engineering Student
+graduation: 2027
 
-- ⚔️ Building web applications with React, Next.js, and TypeScript.
-- 🧩 Exploring backend development, APIs, and relational databases.
-- 🧪 Experimenting with machine learning and AI-powered applications.
-- 🐧 Interested in Linux, developer tooling, and making software better.
-- 🎮 Developing games and occasionally making questionable design decisions.
+primary_quest:
+  - Software Development
+  - Frontend Engineering
+  - Full-Stack Development
 
-I enjoy learning new technologies, figuring out how things work under the hood, and improving my development workflow along the way.
+side_quests:
+  - Applied AI & Machine Learning
+  - Linux & Developer Tooling
+  - Indie Game Development
 
-## ⚔️ The Main Quest
+current_status: Learning, building, experimenting.
+```
 
-Projects that represent my primary development interests.
+Hey! I'm **Kurisu**. I like building things, taking them apart, figuring out why they broke, and occasionally discovering that the bug was caused by one missing semicolon.
 
-### [ACRM — Creator Relationship Management](https://github.com/km-kurisu/ACRM)
+Most of my time goes into web development, experimenting with new technologies, and building projects that start as random ideas and somehow become actual repositories.
 
-**TypeScript · React · Next.js · PostgreSQL**
+I also enjoy anime, manga, game development, music, photography, and probably spending more time tweaking my setup than I should.
 
-A full-stack CRM application developed for Otaku Mantra to manage creator relationships and agency workflows.
+**My development philosophy?** Learn by building. Break things. Understand why. Repeat.
+
+---
+
+<div align="center">
+
+## `02 // THE MAIN QUEST ⚔️`
+
+*The projects currently occupying most of my brain cells.*
+
+</div>
+
+### 🏯 [ACRM — Creator Relationship Management](https://github.com/km-kurisu/ACRM)
+
+`TypeScript` `React` `Next.js` `PostgreSQL`
+
+A full-stack CRM application built for Otaku Mantra to manage creator relationships and agency workflows.
 
 - Designed and developed the application.
-- Worked on database design and application architecture.
+- Worked on database architecture and application workflows.
 - Implemented authentication and core CRM functionality.
-- Built workflows around creators, outreach, campaigns, and brand collaborations.
+- Built features around creators, outreach, campaigns, and brand collaborations.
 
-🌐 [Live Preview](https://acrm-five.vercel.app)
+<sub>🌐 [Enter the application](https://acrm-five.vercel.app)</sub>
 
-### [VitaScan V3](https://github.com/km-kurisu/vitascan_v3)
+### 🧬 [VitaScan V3](https://github.com/km-kurisu/vitascan_v3)
 
-**Python · Machine Learning · OCR · XGBoost · Graph Neural Networks**
+`Python` `XGBoost` `GNN` `OCR` `SHAP`
 
 An explainable AI-based anaemia screening research project.
 
-- Developed a blood-report processing pipeline using OCR and biomedical entity extraction.
-- Explored hybrid machine learning approaches combining gradient boosting and graph neural networks.
-- Incorporated explainability techniques to help interpret model predictions.
-- Added a supporting symptom-image assessment pipeline.
+- Blood-report processing through OCR and biomedical entity extraction.
+- Hybrid machine learning architecture combining gradient boosting and graph neural networks.
+- Explainability through TreeSHAP and Integrated Gradients.
+- Supporting symptom-image assessment using a vision-language model.
 
-Currently part of my academic research work.
+<sub>🔬 Currently part of my academic research work.</sub>
 
-### [Neobrutalism Playground](https://github.com/km-kurisu/neobrutalism-playground)
+### 🎨 [Neobrutalism Playground](https://github.com/km-kurisu/neobrutalism-playground)
 
-**React · Next.js · TypeScript · Tailwind CSS**
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-A neobrutalist UI component library and playground focused on reusable interface components.
+A neobrutalist UI component library and playground.
 
-- Exploring reusable component architecture.
-- Working with modern React and frontend tooling.
-- Experimenting with bold, expressive UI design.
+- Experimenting with reusable component architecture.
+- Exploring modern React and frontend tooling.
+- Building bold interfaces that refuse to look boring.
 
 ---
 
-## 🤝 Collaborative Projects
+<div align="center">
 
-Some things are better built with other people. These projects are collaborations with [@me-intenzo](https://github.com/me-intenzo).
+## `03 // PARTY MEMBERS 🤝`
 
-### [Repoctor](https://github.com/km-kurisu/repoctor)
+*Some adventures are better with a teammate.*
 
-**Go · Linux · Developer Tooling**
+Collaborations with [@me-intenzo](https://github.com/me-intenzo).
 
-A repository hygiene and security-scanning tool designed to identify common repository issues.
+</div>
 
-**My contributions:**
+### 🛠️ [Repoctor](https://github.com/km-kurisu/repoctor)
 
+<sub>STATUS: `IN DEVELOPMENT`</sub>
+
+`Go` `Linux` `TUI` `Developer Tooling`
+
+A repository hygiene and security-scanning tool designed to catch common problems before they become bigger problems.
+
+**My current contributions:**
 - Developing a Terminal User Interface (TUI).
 - Optimising the software for Linux environments.
 - Testing across Linux-based environments.
-- Working on overall software optimisation and improvements.
+- Working on general performance and software improvements.
 
-\<sub>Currently in development.\</sub>
+*Still under construction. The terminal is calling.*
 
-### [It's Behind You!](https://github.com/km-kurisu/Its-Behind-You)
+### 👁️ [It's Behind You!](https://github.com/km-kurisu/Its-Behind-You)
 
-**Godot · Game Development · Pixel Art · Horror**
+<sub>STATUS: `LIVE`</sub>
 
-A 2D pixel-art horror platformer where survival is the name of the game.
+`Godot` `Pixel Art` `Horror` `Game Development`
+
+A 2D pixel-art horror platformer. Run, survive, and maybe don't look behind you.
 
 **My contributions:**
-
 - Implemented difficulty modes.
 - Deployed the game using Netlify.
 - Worked on gameplay balancing.
-- Planned new trap mechanics for an upcoming update.
+- Planned trap mechanics for the upcoming update.
 
-🎮 [Play the game](https://itsbehindyou.netlify.app)
+<div align="center">
 
----
+[![PLAY NOW](https://img.shields.io/badge/PLAY%20NOW-DC143C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itsbehindyou.netlify.app)
 
-## 🧰 Inventory — Technologies & Tools
-
-Things I've worked with, experimented with, or continue to learn.
-
-**Languages**
-
-Python · Java · JavaScript · TypeScript · C# · HTML · CSS · Go
-
-**Frontend Development**
-
-React · Next.js · Tailwind CSS · shadcn/ui · Vite · Zustand
-
-**Backend & Databases**
-
-PostgreSQL · SQLite · Supabase · Firebase · Flask · Express.js
-
-**AI & Machine Learning**
-
-TensorFlow · PyTorch · Scikit-learn · XGBoost · OpenCV · Pandas
-
-**Tools & Environments**
-
-Git · GitHub · Linux · Docker · VS Code · Godot
-
-Always learning something new. The inventory is subject to change whenever I discover another interesting technology.
+</div>
 
 ---
 
-## 🎮 Another Universe — Game Development
+<div align="center">
 
-Outside conventional software development, I also spend time making games.
+## `04 // INVENTORY 🧰`
 
-I'm a co-founder of [**Studio 1159**](https://studio1159.itch.io/), an indie game development team working on experimental games, particularly horror and thriller experiences.
+*Tools I've picked up along the way.*
 
-Game development gives me another way to explore programming, problem-solving, mechanics, and interactive experiences.
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cs,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,sqlite,supabase,firebase" />
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,godot" />
+
+<br/>
+
+<sub>Not a list of things I have mastered. A list of things I've worked with, explored, and continue to learn.</sub>
+
+</div>
 
 ---
 
-## 📺 The Current Arc
+<div align="center">
 
-Because life isn't just commits and pull requests.
+## `05 // ANOTHER UNIVERSE 🎮`
 
-- **Anime:** Always looking for the next series worth staying up late for.
-- **Manga & Manhwa:** One more chapter. Famous last words.
-- **Gaming:** Playing games, studying their mechanics, and occasionally making my own.
-- **Other interests:** Writing, photography, music, and learning new things.
+### STUDIO 1159
 
-📚 [Find me on AniList](https://anilist.co)
+[![Studio 1159](https://img.shields.io/badge/STUDIO_1159-Indie_Game_Development-181717?style=for-the-badge&logo=itch.io&logoColor=white)](https://studio1159.itch.io/)
 
----
+An indie game development team I'm part of as a co-founder.
 
-## 📡 Find Me Across the Internet
+We work on experimental games, with a particular interest in horror, thrillers, and experiences that make players question whether they should really keep playing.
 
-- 🌐 [Personal Portfolio](https://kamleshmistry.vercel.app)
-- 💻 [GitHub](https://github.com/km-kurisu)
-- 📚 [AniList](https://anilist.co)
-- 🎮 [Studio 1159](https://studio1159.itch.io/)
+**Different universe. Same obsession with building things.**
+
+</div>
 
 ---
 
-\<p align="center">   \<i>"Thanks for stopping by. Now go touch grass. Or don't. I'm a README, not a cop."\</i> \</p>
+<div align="center">
+
+## `06 // GITHUB STATISTICS 📊`
+
+*The numbers behind the side quests.*
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=km-kurisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DC143C&icon_color=DC143C" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-kurisu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=DC143C" />
+
+<img src="https://streak-stats.demolab.com?user=km-kurisu&theme=tokyonight&hide_border=true&background=00000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `07 // THE CURRENT ARC 📺`
+
+**Currently watching, reading, playing, and procrastinating with:**
+
+Anime. Manga. Manhwa. Games. Music.
+
+One more episode. One more chapter. One more commit.
+
+[![AniList](https://img.shields.io/badge/Follow_my_AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co)
+
+<br/>
+
+*Writing · Photography · Game Development · Learning random technologies*
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 // ESTABLISH CONNECTION 📡`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://kamleshmistry.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/km-kurisu)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co)
+[![Studio 1159](https://img.shields.io/badge/Studio_1159-itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://studio1159.itch.io/)
+
+<br/><br/>
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║   Thanks for stopping by, stranger.     ║
+║                                          ║
+║   Now go touch grass.                    ║
+║   Or don't. I'm a README, not a cop.     ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Anime-style coding energy" />
+
+**Until the next commit. お疲れ様！**
+
+</div>
